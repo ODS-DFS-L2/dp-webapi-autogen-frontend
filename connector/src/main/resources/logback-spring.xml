@@ -1,0 +1,15 @@
+<configuration>
+
+    <!-- コンソール出力 -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} %-5level %logger{10} %msg%n</pattern>
+        </encoder>
+    </appender>
+    
+
+    <root level="INFO">
+        <!-- コンソールへ出力 -->
+        <appender-ref ref="STDOUT" />
+    </root>
+</configuration>
