@@ -10,7 +10,7 @@
 
 以下にそれぞれのリポジトリへのリンクを示す。  
 - dp-webapi-autogen-frontend（**本リポジトリ**）
-- [webapi-generated-backend（ドローン航路システム向け）](https://github.com/ODS-IS-UASAW/webapi-generated-backend-UASAW), [webapi-generated-backend（インフラ管理DX向け）](https://github.com/ODS-IS-IMDX/webapi-generated-backend-IMDX),  [webapi-generated-backend（自動運転支援道向け）](https://github.com/ODS-IS-CAVC/webapi-generated-backend-CAVC)
+- [webapi-generated-backend（ドローン航路システム向け）](https://github.com/ODS-IS-UASL/webapi-generated-backend-UASL), [webapi-generated-backend（インフラ管理DX向け）](https://github.com/ODS-IS-IMDX/webapi-generated-backend-IMDX),  [webapi-generated-backend（自動運転支援道向け）](https://github.com/ODS-IS-CAVC/webapi-generated-backend-CAVC)
 - [ic-user-auth](https://github.com/ODS-DFS-L3/ic-user-auth)
 
 ## 動作確認済み実行環境
